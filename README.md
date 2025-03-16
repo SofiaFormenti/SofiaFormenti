@@ -27,4 +27,4 @@ Learning how to use Unity and program in C# as a side project 💡
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 
-[![My Skills](https://skillicons.dev/icons?i=python,postgres,keras,matplotlib,matlab,numpy,pandas,scikit-learn,tensorflow,R,vscode,prezi,blender,unity,cs&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgres,matlab,numpy,pandas,scikit-learn,tensorflow,R,vscode,prezi,blender,unity,cs&perline=10)](https://skillicons.dev)
