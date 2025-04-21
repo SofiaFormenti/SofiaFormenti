@@ -2,7 +2,9 @@
 
 I'm enrolled in the third year of the [Bachelor in Artificial Intelligence](https://bai.unipv.it/), a joint degree between University of Pavia, Milano Statale and Milano Bicocca <br/>
 <br/>
-Learning how to use Unity and program in C# as a side project 💡
+Side project 💡 <br/>
+Learning the ropes of Blender for 3D Modelling <br/>
+Unity and C# for an upcoming project <br/>
 <br/>
 <br/>
 
