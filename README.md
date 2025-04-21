@@ -4,7 +4,7 @@ I'm enrolled in the third year of the [Bachelor in Artificial Intelligence](http
 <br/>
 💡 <br/>
 Learning the ropes of Blender for 3D Modelling <br/>
-Unity and C# for an upcoming project <br/>
+Learning Unity and C# for an upcoming project <br/>
 <br/>
 <br/>
 
