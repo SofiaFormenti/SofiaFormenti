@@ -1,6 +1,8 @@
 ## Hi I'm Sofia! 🪴
 
-I'm enrolled in the first year (M1) of the Master of Science and Technology in Extended Cinematography, a joint degree between Ecole Polytechnique and ENS Louis Lumiere. 
+I'm enrolled in the first year (M1) of the [Master of Science and Technology in Extended Cinematography](https://programmes.polytechnique.edu/en/master/all-msct-specializations/science-technology-in-extended-cinematography), a joint degree between Ecole Polytechnique and ENS Louis Lumiere. 
+<br/>
+
 I have graduated in the [Bachelor in Artificial Intelligence](https://bai.unipv.it/), a joint degree between University of Pavia, Milano Statale and Milano Bicocca that taught me Calculus, Statistics, Physics, Programming in Python and R, Machine Learning, Deep Learning, Natural Language Processing and more!<br/>
 <br/>
 💡 <br/>
